@@ -22,3 +22,7 @@ label {
     align-items: center;
 }
 
+img {
+    width: 60%;
+    height: 520px;
+}
